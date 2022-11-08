@@ -1,4 +1,4 @@
-![software engineer](https://github.com/ibdaye/ibdaye/blob/master/ibibo%20.png)
+
 ### Hi there 👋, my name is Ibibo
 I am a Product Manager 👨🏾‍💻. 
 
