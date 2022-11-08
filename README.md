@@ -1,10 +1,8 @@
 ![software engineer](https://github.com/ibdaye/ibdaye/blob/master/ibibo%20.png)
 ### Hi there 👋, my name is Ibibo
-I am a Software Engineer 👨🏾‍💻 , responsible for designing, building, and maintaining the server-side of web and mobile applications. 
+I am a Product Manager 👨🏾‍💻. 
 
-Skills: javascript | node | express | mongo DB | Typescript
 
-- 🌱 I’m currently learning Golang 
 - 📫 How to reach me: ibibofubara@gmail.com 
 
 
